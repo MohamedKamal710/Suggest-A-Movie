@@ -1,6 +1,6 @@
 # suggest_movie
 
-A new Flutter application.
+The Idea behind it , instead of wasting time on searching for a movie , you could open the App , choose your genre and it will suggest a random movie in that genre you chose.
 
 ## Getting Started
 
